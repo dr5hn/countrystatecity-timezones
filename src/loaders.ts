@@ -34,27 +34,32 @@ export async function getTimezonesByCountry(countryCode: string): Promise<ITimez
 export async function getTimezoneInfo(timezoneName: string): Promise<ITimezoneInfo | null> {
   const timezones = await getTimezones();
   const timezone = timezones.find(tz => tz.zoneName === timezoneName);
-  
+
   if (!timezone) {
     return null;
   }
 
   const now = new Date();
-  const currentTime = now.toLocaleString('en-US', { timeZone: timezoneName });
-  
+
   // Check if DST is currently active by comparing offsets
   const january = new Date(now.getFullYear(), 0, 1);
   const july = new Date(now.getFullYear(), 6, 1);
-  
-  const janOffset = new Date(january.toLocaleString('en-US', { timeZone: timezoneName })).getTime();
-  const julOffset = new Date(july.toLocaleString('en-US', { timeZone: timezoneName })).getTime();
-  const currentOffset = new Date(currentTime).getTime();
-  
-  const isDST = Math.abs(currentOffset - janOffset) > Math.abs(currentOffset - julOffset);
+
+  const janStr = january.toLocaleString('en-US', { timeZone: timezoneName });
+  const julStr = july.toLocaleString('en-US', { timeZone: timezoneName });
+  const nowStr = now.toLocaleString('en-US', { timeZone: timezoneName });
+
+  const janOffset = new Date(janStr).getTimezoneOffset();
+  const julOffset = new Date(julStr).getTimezoneOffset();
+  const nowOffset = new Date(nowStr).getTimezoneOffset();
+
+  // Standard time is when offset is maximum (most positive)
+  const standardOffset = Math.max(janOffset, julOffset);
+  const isDST = nowOffset < standardOffset;
 
   return {
     timezone: timezone.zoneName,
-    currentTime: new Date(currentTime).toISOString(),
+    currentTime: now.toISOString(),
     utcOffset: timezone.gmtOffsetName,
     isDST,
     gmtOffset: timezone.gmtOffset
