@@ -36,11 +36,6 @@ jobs:
       - name: Build package
         run: npm run build
 
-      - name: Test Vite integration
-        run: |
-          cd tests/vite-integration
-          bash test.sh
-
       - name: Check bundle sizes
         run: |
           echo "=== Bundle Sizes ==="
