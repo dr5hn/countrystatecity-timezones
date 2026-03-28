@@ -112,8 +112,7 @@ tests/
 │   └── api.test.ts         # End-to-end API testing
 ├── compatibility/           # Platform-specific tests
 │   └── ios-safari.test.ts  # iOS/Safari compatibility
-├── nextjs-integration/      # Next.js integration test app
-└── vite-integration/        # Vite integration test app
+└── nextjs-integration/      # Next.js integration test app
 ```
 
 ### Running Specific Tests
