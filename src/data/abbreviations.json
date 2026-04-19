@@ -1,4 +1,3 @@
-
 [
   {
     "abbreviation": "ACDT",
@@ -128,12 +127,13 @@
       "Asia/Bahrain",
       "America/Barbados",
       "Atlantic/Bermuda",
-      "America/Curacao",
+      "America/Kralendijk",
       "America/Blanc-Sablon",
       "America/Glace_Bay",
       "America/Goose_Bay",
       "America/Halifax",
       "America/Moncton",
+      "America/Curacao",
       "America/Dominica",
       "America/Santo_Domingo",
       "America/Thule",
@@ -339,7 +339,8 @@
     "timezones": [
       "Antarctica/Palmer",
       "America/Punta_Arenas",
-      "America/Santiago"
+      "America/Santiago",
+      "America/Coyhaique"
     ]
   },
   {
@@ -467,7 +468,7 @@
       "Europe/Kaliningrad",
       "Asia/Damascus",
       "Europe/Istanbul",
-      "Europe/Kiev",
+      "Europe/Kyiv",
       "Europe/Uzhgorod",
       "Europe/Zaporozhye"
     ]
@@ -814,6 +815,7 @@
       "America/Hermosillo",
       "America/Mazatlan",
       "America/Ojinaga",
+      "America/Ciudad_Juarez",
       "America/Boise",
       "America/Denver",
       "America/Phoenix"
@@ -970,7 +972,7 @@
   },
   {
     "abbreviation": "PST",
-    "name": "Pacific Standard Time (North America",
+    "name": "Pacific Standard Time (North America)",
     "timezones": [
       "America/Vancouver",
       "America/Tijuana",

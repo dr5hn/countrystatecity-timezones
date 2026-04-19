@@ -5,7 +5,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Cancun",
@@ -21,7 +21,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Hermosillo",
@@ -29,7 +29,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Matamoros",
@@ -37,7 +37,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Mazatlan",
@@ -45,7 +45,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Merida",
@@ -53,7 +53,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Mexico_City",
@@ -61,7 +61,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Monterrey",
@@ -69,7 +69,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Ojinaga",
@@ -77,7 +77,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Tijuana",
@@ -85,6 +85,14 @@
     "abbreviation": "PST",
     "gmtOffset": -28800,
     "gmtOffsetName": "UTC-08:00",
-    "tzName": "Pacific Standard Time (North America"
+    "tzName": "Pacific Standard Time (North America)"
+  },
+  {
+    "zoneName": "America/Ciudad_Juarez",
+    "countryCode": "MX",
+    "abbreviation": "MST",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "tzName": "Mountain Standard Time (North America)"
   }
 ]
