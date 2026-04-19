@@ -21,7 +21,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Chicago",
@@ -29,7 +29,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Denver",
@@ -37,7 +37,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Detroit",
@@ -61,7 +61,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Indiana/Marengo",
@@ -85,7 +85,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Indiana/Vevay",
@@ -141,7 +141,7 @@
     "abbreviation": "PST",
     "gmtOffset": -28800,
     "gmtOffsetName": "UTC-08:00",
-    "tzName": "Pacific Standard Time (North America"
+    "tzName": "Pacific Standard Time (North America)"
   },
   {
     "zoneName": "America/Menominee",
@@ -149,7 +149,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Metlakatla",
@@ -181,7 +181,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/North_Dakota/Center",
@@ -189,7 +189,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/North_Dakota/New_Salem",
@@ -197,7 +197,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Phoenix",
@@ -205,7 +205,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Sitka",

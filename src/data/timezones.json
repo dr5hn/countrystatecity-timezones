@@ -464,7 +464,7 @@
     "tzName": "Bolivia Time"
   },
   {
-    "zoneName": "America/Curacao",
+    "zoneName": "America/Kralendijk",
     "countryCode": "BQ",
     "abbreviation": "AST",
     "gmtOffset": -14400,
@@ -773,7 +773,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Iqaluit",
@@ -813,7 +813,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Rankin_Inlet",
@@ -821,7 +821,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Regina",
@@ -829,7 +829,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Resolute",
@@ -837,7 +837,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/St_Johns",
@@ -853,7 +853,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Thunder_Bay",
@@ -861,7 +861,7 @@
     "abbreviation": "EST",
     "gmtOffset": -18000,
     "gmtOffsetName": "UTC-05:00",
-    "tzName": "Eastern Standard Time (North America"
+    "tzName": "Eastern Standard Time (North America)"
   },
   {
     "zoneName": "America/Toronto",
@@ -869,7 +869,7 @@
     "abbreviation": "EST",
     "gmtOffset": -18000,
     "gmtOffsetName": "UTC-05:00",
-    "tzName": "Eastern Standard Time (North America"
+    "tzName": "Eastern Standard Time (North America)"
   },
   {
     "zoneName": "America/Vancouver",
@@ -877,7 +877,7 @@
     "abbreviation": "PST",
     "gmtOffset": -28800,
     "gmtOffsetName": "UTC-08:00",
-    "tzName": "Pacific Standard Time (North America"
+    "tzName": "Pacific Standard Time (North America)"
   },
   {
     "zoneName": "America/Whitehorse",
@@ -885,7 +885,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Winnipeg",
@@ -893,7 +893,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Yellowknife",
@@ -901,7 +901,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "Atlantic/Cape_Verde",
@@ -958,6 +958,14 @@
     "gmtOffset": -18000,
     "gmtOffsetName": "UTC-05:00",
     "tzName": "Easter Island Summer Time"
+  },
+  {
+    "zoneName": "America/Coyhaique",
+    "countryCode": "CL",
+    "abbreviation": "CLST",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "tzName": "Chile Summer Time"
   },
   {
     "zoneName": "Asia/Shanghai",
@@ -1029,7 +1037,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "Europe/Zagreb",
@@ -1157,7 +1165,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "Africa/Malabo",
@@ -1397,7 +1405,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "Europe/Guernsey",
@@ -1453,7 +1461,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "Asia/Hong_Kong",
@@ -1909,7 +1917,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Cancun",
@@ -1925,7 +1933,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Hermosillo",
@@ -1933,7 +1941,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Matamoros",
@@ -1941,7 +1949,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Mazatlan",
@@ -1949,7 +1957,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Merida",
@@ -1957,7 +1965,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Mexico_City",
@@ -1965,7 +1973,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Monterrey",
@@ -1973,7 +1981,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Ojinaga",
@@ -1981,7 +1989,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Tijuana",
@@ -1989,7 +1997,15 @@
     "abbreviation": "PST",
     "gmtOffset": -28800,
     "gmtOffsetName": "UTC-08:00",
-    "tzName": "Pacific Standard Time (North America"
+    "tzName": "Pacific Standard Time (North America)"
+  },
+  {
+    "zoneName": "America/Ciudad_Juarez",
+    "countryCode": "MX",
+    "abbreviation": "MST",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "Pacific/Chuuk",
@@ -2165,7 +2181,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "Africa/Niamey",
@@ -2333,7 +2349,7 @@
     "abbreviation": "PST",
     "gmtOffset": -28800,
     "gmtOffsetName": "UTC-08:00",
-    "tzName": "Pacific Standard Time (North America"
+    "tzName": "Pacific Standard Time (North America)"
   },
   {
     "zoneName": "Europe/Warsaw",
@@ -3032,7 +3048,7 @@
     "tzName": "East Africa Time"
   },
   {
-    "zoneName": "Europe/Kiev",
+    "zoneName": "Europe/Kyiv",
     "countryCode": "UA",
     "abbreviation": "EET",
     "gmtOffset": 7200,
@@ -3101,7 +3117,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Chicago",
@@ -3109,7 +3125,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Denver",
@@ -3117,7 +3133,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Detroit",
@@ -3141,7 +3157,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Indiana/Marengo",
@@ -3165,7 +3181,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Indiana/Vevay",
@@ -3221,7 +3237,7 @@
     "abbreviation": "PST",
     "gmtOffset": -28800,
     "gmtOffsetName": "UTC-08:00",
-    "tzName": "Pacific Standard Time (North America"
+    "tzName": "Pacific Standard Time (North America)"
   },
   {
     "zoneName": "America/Menominee",
@@ -3229,7 +3245,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Metlakatla",
@@ -3261,7 +3277,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/North_Dakota/Center",
@@ -3269,7 +3285,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/North_Dakota/New_Salem",
@@ -3277,7 +3293,7 @@
     "abbreviation": "CST",
     "gmtOffset": -21600,
     "gmtOffsetName": "UTC-06:00",
-    "tzName": "Central Standard Time (North America"
+    "tzName": "Central Standard Time (North America)"
   },
   {
     "zoneName": "America/Phoenix",
@@ -3285,7 +3301,7 @@
     "abbreviation": "MST",
     "gmtOffset": -25200,
     "gmtOffsetName": "UTC-07:00",
-    "tzName": "Mountain Standard Time (North America"
+    "tzName": "Mountain Standard Time (North America)"
   },
   {
     "zoneName": "America/Sitka",
